@@ -1,5 +1,18 @@
 # Shini161
 
+## About me
+
+## Skills
+
+- Front-end development using
+- Backend development using
+- Database that I know
+- Desktop application development using
+- Project Management and CD/CI using
+- Currently Learning **[Java]()**
+
+
+## Socials and Contacts
 ### ✨ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src=".github/images/vscode.svg">
