@@ -1,7 +1,5 @@
 # Hi, I'm Shini! 🎈
 
-### want a cupcake? 🧁
-
 ---
 
 
