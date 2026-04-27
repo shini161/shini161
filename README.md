@@ -34,5 +34,6 @@
 
 ## 📬 Socials and Contacts
 - [LinkedIn](https://www.linkedin.com/in/mirza-osmic-8347683a2/)
+- [Twitter/X](https://x.com/shini_161)
 - [Discord](https://discord.com/users/703994517971533935)
 - **Email:** [shini161os@gmail.com](mailto:shini161os@gmail.com)
